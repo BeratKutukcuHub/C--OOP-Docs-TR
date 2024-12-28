@@ -1,0 +1,14 @@
+C:\Users\Berat\source\repos\ControlConsole\bin\Debug\net6.0\ControlConsole.exe
+C:\Users\Berat\source\repos\ControlConsole\bin\Debug\net6.0\ControlConsole.deps.json
+C:\Users\Berat\source\repos\ControlConsole\bin\Debug\net6.0\ControlConsole.runtimeconfig.json
+C:\Users\Berat\source\repos\ControlConsole\bin\Debug\net6.0\ControlConsole.dll
+C:\Users\Berat\source\repos\ControlConsole\bin\Debug\net6.0\ControlConsole.pdb
+C:\Users\Berat\source\repos\ControlConsole\obj\Debug\net6.0\ControlConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berat\source\repos\ControlConsole\obj\Debug\net6.0\ControlConsole.AssemblyInfoInputs.cache
+C:\Users\Berat\source\repos\ControlConsole\obj\Debug\net6.0\ControlConsole.AssemblyInfo.cs
+C:\Users\Berat\source\repos\ControlConsole\obj\Debug\net6.0\ControlConsole.csproj.CoreCompileInputs.cache
+C:\Users\Berat\source\repos\ControlConsole\obj\Debug\net6.0\ControlConsole.dll
+C:\Users\Berat\source\repos\ControlConsole\obj\Debug\net6.0\refint\ControlConsole.dll
+C:\Users\Berat\source\repos\ControlConsole\obj\Debug\net6.0\ControlConsole.pdb
+C:\Users\Berat\source\repos\ControlConsole\obj\Debug\net6.0\ControlConsole.genruntimeconfig.cache
+C:\Users\Berat\source\repos\ControlConsole\obj\Debug\net6.0\ref\ControlConsole.dll
